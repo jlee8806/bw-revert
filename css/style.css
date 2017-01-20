@@ -133,10 +133,10 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline;
 }
 .fh5co-nav ul li a {
-  font-size: 14px;
+  font-size: 18px;
   padding: 30px 10px;
   text-transform: uppercase;
-  /*color: rgba(255, 255, 255, 0.5);*/
+  /*color: #253746;*/
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -1217,7 +1217,7 @@ form label {
   text-align: center;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span {
-  font-size: 12px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
